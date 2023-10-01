@@ -4,7 +4,7 @@ import localFont from "next/font/local";
 import { Montserrat } from "next/font/google";
 
 export const metadata = {
-  title: "Join Go Now",
+  title: "Turn sugar to fiber",
   description: "",
 };
 // const lufga = localFont({
